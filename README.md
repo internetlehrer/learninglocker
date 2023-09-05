@@ -1,3 +1,8 @@
+# This Repository has several changes!
+
+Please contact info@internetlehrer-gmbh.de
+
+
 [![Learning Locker Logo](https://i.imgur.com/hP1yFKL.png)](http://learninglocker.net)
 > An open source Learning Record Store (LRS) implementing the [xAPI](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md) ([Tin Can API](http://tincanapi.com/)).
 
